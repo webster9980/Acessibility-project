@@ -19,7 +19,7 @@
     width: 100%;
     padding: 24px 20px;
     margin: 0 auto;
-    color: #555;
+    color: #fff;
 }
 
 .content h2{
@@ -28,4 +28,19 @@
 
 .content p{
     margin: 20px 0;
+}
+
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    margin: 0 auto;
+    padding: 24px 20px;
+    max-width: 1064px;
+    width: 100%;
+}
+
+.footer a {
+    color: #fff;
 }
