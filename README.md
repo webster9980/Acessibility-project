@@ -7,6 +7,6 @@ Projeto desenvolvido no curso de acessibilidade com React da Rocketseat
 - npm i (Para instalar as dependências)
 - npm run dev (Para iniciar o servidor de desenvolvimento)
 
-##Tecnologia usada para avaliar a acessibilidade
+## Tecnologia usada para avaliar a acessibilidade
 
--Axel core React<a href='https://www.npmjs.com/package/axel-core'>Link para a página</a>
+-Axel core React <a href='https://www.npmjs.com/package/axel-core'>Link para a página</a>
